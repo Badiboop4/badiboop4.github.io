@@ -1,5 +1,4 @@
-I ported the game to html since Scratch said that the file was too big >:(
-Hope u enjoy it :D
+I ported the game to html since Scratch said that the file was too big. Hope u enjoy it :D
 
 [Lead Developer]
 @xX_Badiboop4_Xx
